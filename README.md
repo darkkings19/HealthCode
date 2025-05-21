@@ -46,7 +46,7 @@ User experience study for **HealthCode App** — a mobile application that promo
 
 ## 6. Customer Journey Map
 
-![Customer Journey Map](./imagenes/journey-map.png)
+![Customer Journey Map](./Deliverabls/journey_map.pdf)
 
 ## 7. Navigation
 
