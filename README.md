@@ -66,7 +66,7 @@ Paolo Paredes - Jefe de proyecto
 
 ### 7.2. Improved Navigation
 
-![Improved Navigation](./imagenes/navigation-improved.png)
+![Improved Navigation](./SiteMap.png)
 
 ## 8. Wireframes
 
