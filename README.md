@@ -28,15 +28,15 @@ User experience study for **HealthCode App** — a mobile application that promo
 
 ## 2. Team
 
-*Sebastián Aliante* - *Diseñador* 
+Sebastián Aliante - Diseñador 
 
-*Ignacio Morales* - *Analista*
+Ignacio Morales - Analista
 
-*luis Contreras* - *Expositor*
+luis Contreras - Expositor
 
-*Benjamin Cruzado* - *Diseñador*
+Benjamin Cruzado - Diseñador
 
-*Paolo Paredes* - *Jefe de proyecto*
+Paolo Paredes - Jefe de proyecto
 
 
 ## 3. Strategy
@@ -44,6 +44,7 @@ User experience study for **HealthCode App** — a mobile application that promo
 - What problems are we solving?
 - Who are our users?
 - What value does HealthCode offer?
+![value_canvas](./Value.png)
 
 ## 4. Solutions Scope
 
