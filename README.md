@@ -1,4 +1,4 @@
-# 💪 HealthCode UXD (WIP)
+# 💚  HealthCode UXD (WIP)
 
 User experience study for **HealthCode App** — a mobile application that promotes healthy habits through nutrition tips, brief exercises, and daily motivation.
 
