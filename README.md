@@ -52,7 +52,7 @@ User experience study for **HealthCode App** — a mobile application that promo
 ## 5. Benchmark
 
 *Comparative analysis of existing apps that promote healthy lifestyles, exercise, or diet.*
-
+![Benchmarking](./Berchmarking.png)
 ## 6. Customer Journey Map
 
 ![Customer Journey Map](./Deliverabls/journey_map.pdf)
