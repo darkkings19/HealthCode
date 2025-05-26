@@ -59,8 +59,14 @@ HealthCode is designed specifically for university students in technology-relate
 
 ## 5. Benchmark
 
-*Comparative analysis of existing apps that promote healthy lifestyles, exercise, or diet.*
+To design an application that truly meets the needs and expectations of students in technology-related fields, it is essential to conduct a thorough analysis of existing solutions in the market, especially those focused on healthy habits and well-being for similar audiences. This process, known as benchmarking, allows us to identify both the limitations and successful aspects of these applications, with the goal of strategically integrating them into HealthCode.
+
+By evaluating competing applications, we can learn from their strengths and weaknesses, avoid common mistakes, and adopt proven features that add value. This provides us with a clear understanding of current market demands and user preferences, which is key to designing a superior experience tailored to the university context.
+
+Ultimately, this comparative analysis offers valuable insights to optimize HealthCode’s development, ensuring the application stands out among alternatives and effectively fulfills user expectations.
+
 ![Benchmarking](./Berchmarking.png)
+
 ## 6. Customer Journey Map
 
 ![Customer Journey Map](./JourneyMap.png)
