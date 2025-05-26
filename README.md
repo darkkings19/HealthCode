@@ -53,7 +53,9 @@ In this context, we use the Value Proposition Canvas as a key tool for developin
 
 ## 4. Solutions Scope
 
-*Definition of the functional and content scope based on research and user needs.*
+HealthCode is designed specifically for university students in technology-related fields, such as Computer Engineering, who seek to adopt healthier habits within their demanding academic schedules. The application serves users with varying levels of experience in nutrition and physical activity, offering practical and accessible solutions tailored to their needs. HealthCode provides personalized snack plans featuring quick, healthy recipes, along with guided stretching exercises that require minimal time and space. Users can monitor their progress and benefit from automated recommendations that adapt to their individual routines. Moreover, the app fosters a supportive community that motivates and accompanies users throughout their journey toward improved well-being. In summary, HealthCode is a comprehensive and user-centered tool that enables technology students to care for their health effectively without compromising their studies.
+
+
 
 ## 5. Benchmark
 
