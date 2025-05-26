@@ -41,9 +41,10 @@ Paolo Paredes - Jefe de proyecto
 
 ## 3. Strategy
 
-- What problems are we solving?
-- Who are our users?
-- What value does HealthCode offer?
+In The Elements of User Experience, the first level in user-centered design is the strategy plane. This plane focuses on defining both the business objectives and the real needs of the users, establishing a solid foundation for product development.
+
+In this context, we use the Value Proposition Canvas as a key tool for developing this stage. Through this framework, we identify what users expect to gain from our application, what frustrations they wish to avoid, and what tasks they are trying to accomplish in their daily lives. In this way, we align our solution with the users’ goals and motivations, ensuring that the experience offered fits their habits, time availability, and challenges within the university environment.
+
 ![value_canvas](./Value.png)
 
 ## 4. Solutions Scope
