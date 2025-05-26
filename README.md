@@ -68,6 +68,9 @@ Ultimately, this comparative analysis offers valuable insights to optimize Healt
 ![Benchmarking](./Berchmarking.png)
 
 ## 6. Customer Journey Map
+The Customer Journey Map is a visual tool that helps understand and analyze the user’s experience throughout their interaction with the HealthCode application. This map outlines the different stages users go through, from discovering the app to ongoing use, identifying emotions, motivations, touchpoints, and potential obstacles at each phase.
+
+The main goal of this mapping is to gain deep insight into users’ needs and expectations to design a seamless, satisfying, and motivating experience. By identifying opportunities for improvement and key moments of interaction, the Customer Journey Map guides the development of features and strategies that maximize value delivery and user engagement with healthy habits within their university routine.
 
 ![Customer Journey Map](./JourneyMap.png)
 
