@@ -24,7 +24,11 @@ User experience study for **HealthCode App** — a mobile application that promo
 
 ## 1. Introduction
 
-**HealthCode** is a mobile app designed to encourage users to adopt and maintain healthy habits. It combines short physical exercises, nutritious snack suggestions, and progress tracking in a user-friendly experience.
+Today, maintaining a healthy lifestyle has become an increasing challenge, especially for those facing demanding schedules, long hours in front of the computer, and constant academic pressure. This situation is particularly common among university students in technical fields like Computer Engineering, who often neglect their physical and emotional well-being due to lack of time, guidance, or practical alternatives.
+
+HealthCode emerges as a response to this issue, aiming to facilitate the adoption of healthy habits without disrupting the university routine. The application focuses on two core pillars: access to healthy, quick, and easy-to-prepare snacks, and the incorporation of brief stretching exercises that can be performed anywhere and at any time during the day.
+
+With personalized recommendations, automated suggestions, and a supportive community space, HealthCode seeks to naturally integrate into the daily lives of many students, helping them improve their well-being in a realistic, accessible, and sustainable way.
 
 ## 2. Team
 
