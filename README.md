@@ -36,7 +36,7 @@ Sebastián Aliante - Diseñador
 
 Ignacio Morales - Analista
 
-luis Contreras - Expositor
+Luis Contreras - Expositor
 
 Benjamin Cruzado - Diseñador
 
