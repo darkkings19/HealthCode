@@ -86,7 +86,7 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 
 ## 8. Wireframes
 
-[Full document here](deliverables/HealthCode_Figma_WIREFRAMES.pdf)
+[Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
 ## 9. Mockups
 
