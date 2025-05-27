@@ -78,7 +78,7 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 
 ### 7.1. Initial Approach
 
-![Initial Navigation](./imagenes/navigation-initial.png)
+![Initial Navigation](./PrimeraVision.png)
 
 ### 7.2. Improved Navigation
 
