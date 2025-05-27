@@ -86,7 +86,7 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 
 ## 8. Wireframes
 
-![Wireframes](./imagenes/wireframes.png)
+![Wireframes](deliverables/Wireframes.pdf)
 
 ## 9. Mockups
 
