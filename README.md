@@ -90,5 +90,5 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 
 ## 9. Mockups
 
-[Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
+[Full document here](Deliverables/HealthCode-Figma-HD.pdf)
 
