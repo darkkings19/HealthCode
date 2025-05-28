@@ -90,10 +90,5 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 
 ## 9. Mockups
 
-### 9.1. Initial Approach
+[Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
-![Initial Mockups](./imagenes/mockup-inicial.png)
-
-### 9.2. Improved Mockups
-
-![Improved Mockups](./imagenes/mockup-mejorado.png)
