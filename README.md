@@ -85,7 +85,7 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 ![Improved Navigation](./SiteMap.png)
 
 ## 8. Wireframes
-[Figma] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=in6NntGno3nSdwgm-1
+[Figma] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=nLxMYgmivfPU77tp-1
 
 [Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
