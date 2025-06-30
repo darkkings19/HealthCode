@@ -85,6 +85,8 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 ![Improved Navigation](./SiteMap.png)
 
 ## 8. Wireframes
+In the Skeleton plane of the user experience model, wireframes represent the basic visual structure of the interface. These sketches help organize functional elements, navigation, and information layout. Their purpose is to define how the system will look and function before visual design. Thus, wireframes translate Skeleton decisions into a tangible and testable form.
+
 [Figma] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=nLxMYgmivfPU77tp-1
 
 [Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
