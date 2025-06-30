@@ -75,7 +75,9 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 ![Customer Journey Map](./JourneyMap.png)
 
 ## 7. Navigation
-Navigation maps are part of the Skeleton plane in the user experience model. They define how users move through the system by outlining the structure and flow of pages or screens. This supports clear and intuitive navigation design. As such, they help organize the user’s journey before visual styling is applied.
+Navigation maps are directly related to the Skeleton plane in Jesse James Garrett’s user experience model. This plane focuses on the arrangement of interface elements, the design of information, and most importantly in this case, the design of navigation. A navigation map outlines the overall structure and flow of the system, showing how screens or pages are connected and how users can move between them.
+
+By organizing and visualizing these paths, the navigation map helps designers create logical and efficient user journeys. It ensures that users can easily find what they are looking for and understand where they are within the system. This step is crucial before applying any visual design, as it lays the foundation for a smooth and intuitive experience. Therefore, navigation maps play a key role in translating structural ideas into interactive pathways within the Skeleton layer.
 
 ### 7.1. Initial Approach
 
@@ -86,14 +88,18 @@ Navigation maps are part of the Skeleton plane in the user experience model. The
 ![Improved Navigation](./SiteMap.png)
 
 ## 8. Wireframes
-In the Skeleton plane of the user experience model, wireframes represent the basic visual structure of the interface. These sketches help organize functional elements, navigation, and information layout. Their purpose is to define how the system will look and function before visual design. Thus, wireframes translate Skeleton decisions into a tangible and testable form.
+At the core of the Skeleton plane lies the need to organize interface elements for optimal usability and navigation. Wireframes fulfill this role by providing simplified, black-and-white layouts that map out where buttons, menus, input fields, and content will appear on each screen. This step focuses on structure rather than style, ensuring that all functional components are logically arranged and accessible.
+
+Wireframes help designers and stakeholders visualize the flow of interactions and the hierarchy of information without distractions from colors or images. By doing so, they enable early testing and feedback on the interface’s usability and functionality. Ultimately, wireframes are essential in the Skeleton plane because they transform abstract concepts into concrete, testable blueprints for the user interface.
 
 [Figma] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=nLxMYgmivfPU77tp-1
 
 [Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
 ## 9. Mockups
-Mockups are closely tied to the Surface plane of the user experience model. They display the visual design of the interface, including colors, typography, and imagery. While wireframes focus on layout and structure, mockups emphasize look and feel. They bring the final aesthetic decisions of the Surface layer to life.
+Visual design decisions come to life in the Surface plane, where the interface’s look and feel are fully realized. Mockups serve as detailed, high-fidelity representations that include colors, fonts, images, and other stylistic elements. They go beyond layout and functionality to express the brand’s personality and evoke emotional responses from users.
+
+Unlike wireframes, mockups focus on aesthetics and visual appeal, allowing stakeholders to see what the final product will look like before development begins. This makes mockups a critical step in validating the product’s design direction and ensuring consistency across the interface. Therefore, mockups embody the Surface plane by translating functional skeletons into engaging and polished user experiences.
 
 [Full document here](Deliverables/HealthCode-Figma-HD.pdf)
 
