@@ -15,7 +15,7 @@ User experience study for **HealthCode App** — a mobile application that promo
 7. [Navigation](#7-navigation)
    - [7.1. Initial Approach](#71-initial-approach)
    - [7.2. Improved Navigation](#72-improved-navigation)
-   - [7.2.1 Improved Navigation v2](#721-improved-navigationv2)
+   - [7.2.1 Improved Navigation v2](#721ImprovedNavigation(Final))
 8. [Wireframes](#8-wireframes)
 9. [Mockups](#9-mockups)
    - [9.1. Initial Approach](#91-initial-approach)
