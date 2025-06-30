@@ -75,6 +75,7 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 ![Customer Journey Map](./JourneyMap.png)
 
 ## 7. Navigation
+Navigation maps are part of the Skeleton plane in the user experience model. They define how users move through the system by outlining the structure and flow of pages or screens. This supports clear and intuitive navigation design. As such, they help organize the user’s journey before visual styling is applied.
 
 ### 7.1. Initial Approach
 
