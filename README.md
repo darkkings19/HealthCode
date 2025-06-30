@@ -87,6 +87,9 @@ By providing a comprehensive overview of the entire system’s content, sitemaps
 
 ![Improved Navigation](./SiteMap.png)
 
+### 7.2.1 Improved Navigation (Final)
+Based on the feedback from our teammates, teaching assistants, and professor, we decided to change the sitemap of our application HealthCode. This change was made because our app has a more specialized focus on tracking strength training exercises and also offers snack recommendations.
+
 ## 8. Wireframes
 At the core of the Skeleton plane lies the need to organize interface elements for optimal usability and navigation. Wireframes fulfill this role by providing simplified, black-and-white layouts that map out where buttons, menus, input fields, and content will appear on each screen. This step focuses on structure rather than style, ensuring that all functional components are logically arranged and accessible.
 
