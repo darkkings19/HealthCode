@@ -75,9 +75,9 @@ The main goal of this mapping is to gain deep insight into users’ needs and ex
 ![Customer Journey Map](./JourneyMap.png)
 
 ## 7. Navigation
-Navigation maps are directly related to the Skeleton plane in Jesse James Garrett’s user experience model. This plane focuses on the arrangement of interface elements, the design of information, and most importantly in this case, the design of navigation. A navigation map outlines the overall structure and flow of the system, showing how screens or pages are connected and how users can move between them.
+Within the field of user experience design, the sitemap serves as a fundamental artifact connected to the element of Information Architecture, which is part of the Structure plane. Unlike visual interface designs, a sitemap outlines the hierarchical organization and relationships between all the pages or sections of a website or digital system. This clear representation of content structure is essential for planning how information is grouped and accessed.
 
-By organizing and visualizing these paths, the navigation map helps designers create logical and efficient user journeys. It ensures that users can easily find what they are looking for and understand where they are within the system. This step is crucial before applying any visual design, as it lays the foundation for a smooth and intuitive experience. Therefore, navigation maps play a key role in translating structural ideas into interactive pathways within the Skeleton layer.
+By providing a comprehensive overview of the entire system’s content, sitemaps help UX designers ensure that users can navigate intuitively and efficiently. This, in turn, enhances usability and reduces cognitive load by making it easier for users to find relevant information. Therefore, the sitemap plays a crucial role in bridging user needs and system capabilities, laying a solid foundation for subsequent design stages such as navigation design and interface layout.
 
 ### 7.1. Initial Approach
 
