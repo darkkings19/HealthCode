@@ -92,6 +92,7 @@ In the Skeleton plane of the user experience model, wireframes represent the bas
 [Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
 ## 9. Mockups
+Mockups are closely tied to the Surface plane of the user experience model. They display the visual design of the interface, including colors, typography, and imagery. While wireframes focus on layout and structure, mockups emphasize look and feel. They bring the final aesthetic decisions of the Surface layer to life.
 
 [Full document here](Deliverables/HealthCode-Figma-HD.pdf)
 
