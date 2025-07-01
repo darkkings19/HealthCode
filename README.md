@@ -114,5 +114,5 @@ Heuristic decisions manifest in the Skeleton plane, where usability principles s
 
 Unlike visual design, heuristics don’t aim to impress but to empower—helping users complete tasks smoothly, confidently, and with minimal friction. This makes heuristic evaluation a vital checkpoint in the UX process, ensuring the interface behaves in line with human expectations and cognitive models. Thus, the Skeleton plane becomes the blueprint for intuitiveness, translating abstract usability guidelines into concrete, user-friendly structures that support functional and navigational goals.
 
-[Full document here](Delibeables/Evaluación_Heurística-Muñoz,Legue,Powell,Paiva.pdf)
+[Full document here](Deliberables/Evaluación_Heurística-Muñoz,Legue,Powell,Paiva.pdf)
 
