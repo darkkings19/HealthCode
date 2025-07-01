@@ -96,7 +96,7 @@ At the core of the Skeleton plane lies the need to organize interface elements f
 
 Wireframes help designers and stakeholders visualize the flow of interactions and the hierarchy of information without distractions from colors or images. By doing so, they enable early testing and feedback on the interface’s usability and functionality. Ultimately, wireframes are essential in the Skeleton plane because they transform abstract concepts into concrete, testable blueprints for the user interface.
 
-[Figma] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=nLxMYgmivfPU77tp-1
+[Figma Wirframes Finales] https://www.figma.com/design/bIkICbTWapfetVKgp7xj5Z/HealthCode-Figma-WIREFRAMES?node-id=2368-1900&t=nLxMYgmivfPU77tp-1
 
 [Full document here](Deliverables/HealthCode_Figma_WIREFRAMES.pdf)
 
