@@ -20,6 +20,7 @@ User experience study for **HealthCode App** — a mobile application that promo
 9. [Mockups](#9-mockups)
    - [9.1. Initial Approach](#91-initial-approach)
    - [9.2. Improved Mockups](#92-improved-mockups)
+10. [Heuristica](#10-heuristica)
 
 ---
 
