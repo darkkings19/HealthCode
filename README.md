@@ -108,3 +108,11 @@ Unlike wireframes, mockups focus on aesthetics and visual appeal, allowing stake
 
 [Full document here](Deliverables/HealthCode-Figma-HD.pdf)
 
+## 10. Heuritica
+
+Heuristic decisions manifest in the Skeleton plane, where usability principles shape how users interact with a product in real-time. While not concerned with aesthetics or emotional response, heuristics guide the arrangement and behavior of interface elements to support clarity, efficiency, and error prevention. Wireframes and interaction flows become the tangible output of these principles, ensuring the system “feels right” through feedback, consistency, and user control.
+
+Unlike visual design, heuristics don’t aim to impress but to empower—helping users complete tasks smoothly, confidently, and with minimal friction. This makes heuristic evaluation a vital checkpoint in the UX process, ensuring the interface behaves in line with human expectations and cognitive models. Thus, the Skeleton plane becomes the blueprint for intuitiveness, translating abstract usability guidelines into concrete, user-friendly structures that support functional and navigational goals.
+
+[Full document here](Deliverables/HealthCode-Figma-HD.pdf)
+
